@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Juan 
+Apellido: Peres
+---------
+Nombre: Carlos 
+Apellido: Torrez
+---------
+Nombre: Franz 
+Apellido: Gonzales
+---------
+Nombre: Cinthia 
+Apellido: Garcia
+---------
+Nombre: Samira 
+Apellido: Diaz
+---------
